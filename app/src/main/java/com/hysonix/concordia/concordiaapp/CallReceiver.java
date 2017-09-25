@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class CallReceiver extends PhoneReceiver {
 
-    private static final String uri = "http://concordiahub.azurewebsites.net/";
+    private static final String uri = "https://concordia.hysonix.com/event";
 
     public CallReceiver()
     {
